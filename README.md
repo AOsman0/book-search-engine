@@ -9,3 +9,11 @@ Take starter code with a fully functioning Google Books API search engine built 
 2. Modify the existing authentication middleware so that it works in the context of a GraphQL API.
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
+
+## Deployment Link
+
+## Contact Me
+
+[Email Me - 📧](osmana9987@gmail.com)
+
+[GitHub - 🖥️](https://github.com/AOsman0)
