@@ -42,6 +42,10 @@ https://drive.google.com/drive/folders/1wV1dB5jpUD75F16XNnaPgt4ACPSAzGjr?usp=sha
 
 ## Deployment Link
 
+```
+https://frozen-hamlet-79874.herokuapp.com
+```
+
 ## Contact Me
 
 [Email Me - 📧](osmana9987@gmail.com)
