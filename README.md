@@ -10,6 +10,14 @@ Take starter code with a fully functioning Google Books API search engine built 
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
 
+## Screenshots
+
+![screenshot1](./assets/Screenshot%202022-08-31%20at%2007.19.15.png)
+![screenshot2](./assets/Screenshot%202022-08-31%20at%2007.19.47.png)
+![screenshot3](./assets/Screenshot%202022-08-31%20at%2007.19.57.png)
+![screenshot4](./assets/Screenshot%202022-08-31%20at%2007.20.06.png)
+![screenshot4](./assets/Screenshot%202022-08-31%20at%2007.20.10.png)
+
 ## Deployment Link
 
 ## Contact Me
