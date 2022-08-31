@@ -10,6 +10,21 @@ Take starter code with a fully functioning Google Books API search engine built 
 
 3. Create an Apollo Provider so that requests can communicate with an Apollo Server.
 
+## To Run Locally The Application
+
+```
+1. git clone book-search-engine
+
+2. cd coding_bootcamp , cd into phase-3 , cd into book-search-engine.
+
+3. on book-search-engine npm run start:server to run the server.
+
+4. on book-search-engine
+npm run start:client to run the client.
+
+
+```
+
 ## Screenshots
 
 ![screenshot1](./assets/Screenshot%202022-08-31%20at%2007.19.15.png)
